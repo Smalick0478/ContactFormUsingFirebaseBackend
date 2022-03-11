@@ -2,6 +2,12 @@
 
 A Firebase Backend Database For Storing User Responses, User Friendly And Easy Code Customization.
 
+## Clone This Repository
+
+```
+git clone https://github.com/Smalick0478/ContactFormUsingFirebaseBackend.git
+```
+
 ## How To Configure Firebase Backend?
 
 Login To Your Firebase Console & Create a Project, after finishing setup firebase will
@@ -37,4 +43,4 @@ Go To Rules and Paste The Following Code
 
 - [@KHILJI](https://www.github.com/Smalick0478)
 
-## Happy Coding!
+## Contributions Are Always Welcome, Happy Coding!
